@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16540241436",
+    "project_id": "zij-app",
+    "storage_bucket": "zij-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16540241436:android:dcbd7d50f8f537260919d9",
+        "android_client_info": {
+          "package_name": "com.example.zij"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16540241436-9lmosg84hullgnc710gdllqcjej4s9u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8vdXII4YvN97YGiINEMwEihp48XnhpJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16540241436-9lmosg84hullgnc710gdllqcjej4s9u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
